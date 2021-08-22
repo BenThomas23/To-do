@@ -12,7 +12,9 @@ input {
     margin-left: 4rem;
     height: 4rem;
     width: 40rem;
-
+    font-weight: bold;
+    font-size: 1.8rem;
+    border-radius:10px;
 }
 .add{
   width: 9rem;
@@ -34,7 +36,7 @@ input {
 }
 #pending{
   margin-left: 18rem;
-  margin-top: 5rem;
+  margin-top: 2rem;
   border-radius: 0px;
   width: 50rem;
   font-size: 2rem;
@@ -60,10 +62,11 @@ input {
 ul li {
   cursor: pointer;
   position: relative;
+  margin-left: 2rem;
   width: 49rem;
   padding: 12px 8px 12px 10px;
   background: #eee;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Cormorant Garamond', serif;
   font-size: 3rem;
   transition: 0.2s;
 }
@@ -77,6 +80,7 @@ ul li {
   width: 60rem;
   background-color: #FFDFAF;
   margin-left: 13rem;
-  margin-top: 16rem;
+  border-radius=10px;
+  margin-top: 5rem;
   margin-bottom: 10rem;
 }
