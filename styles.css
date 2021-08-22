@@ -1,0 +1,76 @@
+body{
+  font-family: "Montserrat";
+  background-color: #F3F1F5;
+}
+.main{
+  font-size: 10rem;
+  font-family: 'Klee One', cursive;
+  margin-left: 20rem;
+}
+input {
+    margin-left: 20rem;
+    height: 4rem;
+    width: 40rem;
+}
+.add{
+  width: 9rem;
+  height: 4.1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  position: absolute;
+  margin-left:1rem;
+}
+.clear{
+  width: 9rem;
+  height: 4.1rem;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  margin-left:10.5rem;
+}
+.fill{
+  margin-top: 5rem;
+}
+#pending{
+  margin-left: 20rem;
+  margin-top: 5rem;
+  position: relative;
+  top: 3.3rem;
+  border-radius: 0px;
+  width: 30rem;
+  margin-right: 0rem;
+}
+.listing{
+  margin-left: 25rem;
+  margin-top: 5rem;
+  font-family: 'Alumni Sans', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 12px 16px 12px 16px;
+}
+.close:hover {
+  background-color: #f44336;
+  color: white;
+}
+ul li {
+  cursor: pointer;
+  position: relative;
+  right:5rem;
+  width: 48rem;
+  padding: 12px 8px 12px 10px;
+  background: #eee;
+  font-family: 'Alumni Sans', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  transition: 0.2s;
+}
+#clr{
+  left: 60rem;
+}
+.foot{
+  margin-bottom: 10rem;
+}
